@@ -29,7 +29,6 @@
 ## 📋 Table of Contents
 
 - [About the Project](#-about-the-project)
-- [Live Demo](#-live-demo)
 - [Features](#-features)
 - [Architecture](#-architecture)
 - [Tech Stack](#-tech-stack)
@@ -46,9 +45,7 @@
 - [Deployment](#-deployment)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
-- [Team](#-team)
 - [Academic Context](#-academic-context)
-- [Acknowledgements](#-acknowledgements)
 - [License](#-license)
 
 ---
