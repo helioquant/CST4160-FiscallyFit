@@ -23,7 +23,7 @@
 
 *"Going from Ramen to Riches, one chart at a time."* 📊💸
 
-[🚀 Live Demo](#-live-demo) · [✨ Features](#-features) · [🛠 Installation](#-getting-started) · [📖 Docs](#-project-structure) · [👥 Team](#-team) · [🐛 Report Bug](issues) · [💡 Request Feature](issues)
+[✨ Features](#-features) · [🛠 Installation](#-getting-started) · [📖 Docs](#-project-structure) · [👥 Team](#-team)· [💡 Request Feature](issues)
 
 </div>
 
