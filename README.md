@@ -20,7 +20,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 
-[✨ Features](#-features) · [🛠 Installation](#-getting-started) · [📖 Docs](#-project-structure) · [👥 Team](#-team)· [💡 Request Feature](issues)
+[✨ Features](#-features) · [🛠 Installation](#-getting-started) · [📖 Docs](#-project-structure) [💡 Request Feature](issues)
 
 </div>
 
