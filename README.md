@@ -641,10 +641,10 @@ Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) for our full contribution guide
 This project was developed as the summative assessment for:
 
 | **Module** | CST4160 — Advanced Software Development for Financial Technology |
-| **University** | Middlesex University London |
-| Term 2, 2025/2026 |
-| **Submission** | 10th April 2026 |
-| **Module Leader (Hendon)** | Dr. Stephen E. Agada |
+Middlesex University London |
+Term 2, 2025/2026 |
+**Submission** | 10th April 2026 |
+ **Module Leader (Hendon)** | Dr. Stephen E. Agada |
 ---
 
 ## 📄 License
