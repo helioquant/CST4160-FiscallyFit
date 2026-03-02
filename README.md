@@ -19,9 +19,6 @@
 [![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=flat-square)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
----
-
-*"Going from Ramen to Riches, one chart at a time."* 📊💸
 
 [✨ Features](#-features) · [🛠 Installation](#-getting-started) · [📖 Docs](#-project-structure) · [👥 Team](#-team)· [💡 Request Feature](issues)
 
