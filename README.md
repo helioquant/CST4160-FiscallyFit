@@ -357,24 +357,17 @@ cd fiscallyfit
 # 2. Create a virtual environment
 python -m venv venv
 
-# 3. Activate the virtual environment
-source venv/bin/activate          # macOS / Linux
-venv\Scripts\activate             # Windows (Command Prompt)
-.\venv\Scripts\Activate.ps1       # Windows (PowerShell)
-
 # 4. Install all dependencies
-pip install -r requirements.txt
+pip install -r ReqDependency.txt
 
 # 5. Configure environment variables
-cp .env.example .streamlit/secrets.toml
-# Open secrets.toml and add your API keys
+#add your API keys
 
 # 6. Initialise the database
 python db.py
 
 # 7. Launch the application
 streamlit run app.py
-```
 
 The app will open automatically at `http://localhost:8501`
 
