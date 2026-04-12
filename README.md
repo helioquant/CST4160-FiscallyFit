@@ -216,7 +216,6 @@ Set it. Track it. Celebrate it.
 Stay informed. Invest smarter.
 
 **Data Sources**
-- [NewsAPI](https://newsapi.org) for broad financial news
 - [Finnhub](https://finnhub.io) for market-specific news
 - RSS feeds from curated FinTech sources
 - News cached in SQLite `news_cache` table by topic hash and timestamp
@@ -363,11 +362,10 @@ venv\Scripts\activate             # Windows (Command Prompt)
 .\venv\Scripts\Activate.ps1       # Windows (PowerShell)
 
 # 4. Install all dependencies
-pip install -r requirements.txt
+pip install -r ReqDependency.txt
 
 # 5. Configure environment variables
-cp .env.example .streamlit/secrets.toml
-# Open secrets.toml and add your API keys
+#add your API keys
 
 # 6. Initialise the database
 python db.py
